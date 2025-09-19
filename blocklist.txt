@@ -1,0 +1,2 @@
+# block low quality websites
+*://*.screenrant.com/*
